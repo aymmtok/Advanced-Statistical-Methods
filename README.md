@@ -4,3 +4,5 @@ Practice for some statistical methods
 2) Multiple Linear Regression
 3) Multiple Linear Regression with Dummies
 4) Simple Linear Regression with sklearn
+5) Multiple Linear Regression with sklearn
+6) Feature Sclaing with sklearn
