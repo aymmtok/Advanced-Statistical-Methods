@@ -14,3 +14,6 @@ I. Linear Regression
 II. Logistic Regression
 1) Basics of Logistic Regression
 2) Logistic Regression - Accuracy and Testing
+
+III. Cluster Analysis
+1) Basics of Cluster Analysis
