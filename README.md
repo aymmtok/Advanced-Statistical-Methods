@@ -17,3 +17,5 @@ II. Logistic Regression
 
 III. Cluster Analysis
 1) Basics of Cluster Analysis
+2) Market Segmentation with cluster analysis
+3) Species Segmentation with cluster analysis
